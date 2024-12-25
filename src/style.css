@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import typography styles after base layer */
+@import './styles/typography.css';
